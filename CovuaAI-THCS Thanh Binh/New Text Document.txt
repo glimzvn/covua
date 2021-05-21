@@ -1,8 +1,0 @@
-thầy bấm vào thư mục rồi nó sẽ có file chạy.html, thầy click vào đó sẽ ra ----
-  - Search depth: độ sâu tìm kiếm (cấp độ khó)
-  - vị trí người máy vừa đánh: phần tử của độ sâu tìm kiếm giúp tính cơ hội chiến thắng bằng cách tính số điểm, điểm càng cao thì cơ hội thắng nhiều, điểm ít thì ngược lại
-  - Time: thời gian đánh
-  - Positions/s: lượt đánh được tính trên giây
-  - vị trí con cờ đã đánh:
-
-!!! Độ sâu tìm kiếm: để xác định giá trị tương đối của một vị trí , tức là cơ hội chiến thắng. Nếu chúng ta có thể xem đến cuối trò chơi ở mọi dòng, thì đánh giá sẽ chỉ có các giá trị -1 (thua), 0 (hòa) và 1 (thắng), và công cụ cờ vua chỉ nên tìm kiếm đến độ sâu 1 để lấy nước đi tốt nhất. Tuy nhiên, trong thực tế, chúng ta không biết chính xác giá trị của một vị trí, vì vậy chúng ta phải tính toán gần đúng với mục đích chính là so sánh các vị trí, và bộ máy cờ vua bây giờ phải tìm kiếm sâu và tìm vị trí có điểm cao nhất trong một khoảng thời gian nhất định.để xác định giá trị tương đối của một vị trí , tức là cơ hội chiến thắng. Nếu chúng ta có thể xem đến cuối trò chơi ở mọi dòng, thì đánh giá sẽ chỉ có các giá trị -1 (thua), 0 (hòa) và 1 (thắng), và công cụ cờ vua chỉ nên tìm kiếm đến độ sâu 1 để lấy nước đi tốt nhất. Tuy nhiên, trong thực tế, chúng ta không biết chính xác giá trị của một vị trí, vì vậy chúng ta phải tính toán gần đúng với mục đích chính là so sánh các vị trí, và bộ máy cờ vua bây giờ phải tìm kiếm sâu và tìm vị trí có điểm cao nhất trong một khoảng thời gian nhất định.
